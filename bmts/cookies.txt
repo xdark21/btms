@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.bmts.ae	TRUE	/	FALSE	1999999999	de399282bb0674c7c15453cdf0ea4905	d93a593a64255976a35b90d0292f537d
+

@@ -1,0 +1,103 @@
+
+  /* Modal */
+  
+  .boxy-modal-blackout {filter:Alpha(Opacity=50);opacity:0.5; position: absolute; background:#b9ef99;left: 0; top: 0;z-index:99999;
+
+  }
+  .boxy-wrapper { position: absolute;z-index:99999; }
+.boxy-wrapper.fixed { position: fixed;z-index:99999; }
+
+  input {
+  margin:0;
+  padding:0;
+  
+  
+  }
+  /* Border */
+
+  .boxy-wrapper { empty-cells: show; }
+	.boxy-wrapper .top-left,
+	.boxy-wrapper .top-right,
+	.boxy-wrapper .bottom-right,
+	.boxy-wrapper .bottom-left { width: 3px; height: 3px; padding:0px; }
+	
+	.boxy-wrapper .top-left { filter:Alpha(Opacity=50);opacity:0.5;background: transparent url('../images/boxy-nw.png');width:3px;height:3px; }
+	.boxy-wrapper .top-right { filter:Alpha(Opacity=50);opacity:0.5;background:url('../images/boxy-ne.png');width:3px;height:3px; }
+	.boxy-wrapper .bottom-right { filter:Alpha(Opacity=50);opacity:0.5;background:transparent url('../images/boxy-se.png');width:3px;height:3px; }
+	.boxy-wrapper .bottom-left { filter:Alpha(Opacity=50);opacity:0.5;background:transparent url('../images/boxy-sw.png');width:3px;height:3px; }
+	
+	
+	
+	
+
+		.boxy-wrapper  #quest { background: url('../images/question.html') no-repeat top right;width:20px;height:20px;cursor:pointer;position:absolute;top:-10px; }
+	/* IE6+7 hacks for the border. IE7 should support this natively but fails in conjuction with modal blackout bg. */
+	/* NB: these must be absolute paths or URLs to your images */
+	
+
+
+	
+	html *  .boxy-wrapper .top-left { #width:3px; #height:3px;#background: none; 
+	#filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod='crop', src='images/boxy-nw2.html');
+}
+	html *  .boxy-wrapper .top-right { #background: none;  #width:3px; #height:3px;
+	#filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod='crop', src='images/boxy-ne2.html');
+	}
+	html *  .boxy-wrapper .bottom-right { #background: none;  #width:3px; #height:3px;
+	#filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='images/boxy-se2.html');
+	
+ }
+	html *  .boxy-wrapper .bottom-left { #background: none;  #width:3px; #height:3px;
+	
+	#filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='images/boxy-sw2.html');
+	/*#filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/boxy-sw.png');*/
+	
+	
+	 }
+	
+
+	.boxy-wrapper .top,
+	.boxy-wrapper .bottom { height: 3px; background-color: #b9d7fd; opacity: 0.5; filter: alpha(opacity=50); padding: 0 }
+	
+	.boxy-wrapper .left,
+	.boxy-wrapper .right { width: 3px; background-color: #b9d7fd; opacity: 0.5; filter: alpha(opacity=50); padding: 0 }
+	
+	/* Title bar */
+	
+	.boxy-wrapper .title-bar { background:#71cef5 url(../images/title_bar.html) repeat-y top left;padding: 6px; position: relative; }
+	  .boxy-wrapper .title-bar.dragging { cursor: move; }
+	    .boxy-wrapper .title-bar h2 { height:20px;font-family:Verdana, Arial, Helvetica, sans-serif;font-size: 12px; color: white; line-height: 1; margin: 0; padding: 0; font-weight: bold; }
+	    .boxy-wrapper .title-bar .close { color: white; position: absolute; top: 6px; right: 6px; font-size: 90%; line-height: 1; }
+		
+	/* Content Region */
+	
+	.boxy-inner {background:#ffffff ; padding: 0; }
+	.boxy-content { padding: 15px;position:relative;z-index:99999}
+	
+	/* Question Boxes */
+
+    .boxy-wrapper .question { width: 100%;padding:10px;padding-top:0px; }
+    .boxy-wrapper .answers { text-align: right;padding:0;margin:0; }
+	
+
+
+
+
+.clean_border{
+
+width:90px;
+padding:2px;
+border:1px solid #625f5f;
+
+background-color:#818386;
+color:#FFFFFF;
+cursor:pointer;
+font-size:11px;
+
+}
+
+
+	.boxy-wrapper  #clos { background:transparent url('../images/close.html') no-repeat top right;width:29px;height:30px;cursor:pointer;position:absolute;top:0px;z-index:0;}
+
+	
+	* html .boxy-wrapper  #clos { background:transparent url('../images/close2.html') no-repeat top right;width:29px;height:30px;cursor:pointer;}

@@ -1,0 +1,328 @@
+/**
+ * Hosting Raja Career package
+ * @author J-Extension <contact@jextn.com>
+ * @link http://www.jextn.com
+ * @copyright (C) 2012 - 2013 J-Extension
+ * @license GNU/GPL, see LICENSE.php for full license.
+**/
+
+#c_o_head_div{
+	text-transform:uppercase;
+	padding:0 0 10px 0px;
+}
+#c_o_content_top_div{
+	width:100%;
+	padding:10px 27px 10px 0px;
+}
+p{
+font-family: Arial,Helvetica,sans-serif ;
+}
+table.c_o_table{
+	width:100%;
+	border-collapse:collapse;
+}
+table.c_o_table td th{
+border:1px solid #353535;
+}
+
+table.c_o_table thead th {
+    background: none repeat scroll 0 0 #3676BE;
+    /*border-bottom: 1px solid #353535;*/
+    border-left: 1px solid #3676BE;
+    border-bottom-left-radius:1px solid #135CAE;
+    text-align: left !important;
+
+    color: #FFFFFF;
+    text-align: center;
+}
+table.admintable_c_c{
+	border-collapse:collapse;
+	border:1px solid #C2C2C2;
+	margin-bottom:10px;
+
+}
+#tr_first_c_o{
+	text-align:left !important;
+	padding: 7px 7px;
+}
+table.admintable_c td{
+	padding:20px 0 0 11px;
+}
+table.admintable_c{background: none repeat scroll 0 0 #ECF5FD;}
+
+table.admintable_c thead th{
+    background: none repeat scroll 0 0 #3676BE;
+    /*border-bottom: 1px solid #353535;
+    border-left: 1px solid #353535;*/
+	border:1px solid #135CAE;
+    color: #FFFFFF;
+}
+table.admintable_c thead th{text-align:left;}
+table.c_o_table td, table.c_o_table th {
+    padding: 10px;
+}
+thead a:link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+thead a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+thead a:visited{
+	color: #FFFFFF;
+    text-decoration: none;
+}
+table.c_o_table tbody tr td {
+    background: none repeat scroll 0 0 #B0CAE2;
+	border:1px solid #C2C2C2 !important;
+    height: 10px;
+}
+tbody a:link {
+	color:#000000;
+      text-decoration: underline;
+}
+tbody a:hover{
+	color:#000000;
+      text-decoration: underline;
+}
+tbody a:visited{
+	color:#000000;
+      text-decoration: underline;
+}
+table.c_o_table tbody tr.row1 td {
+    background: none repeat scroll 0 0 #ECF5FD;
+
+}
+table.admintable_c{
+	width:100%;
+	border-collapse:collapse;
+}
+.last_c_o_tr{
+	padding-bottom:10px;
+}
+
+#success_c_o{
+	padding:10px;
+}
+#success_c_o a:link {
+	color:#000000;
+      text-decoration: underline;
+}
+#success_c_o a:hover{
+	color:#000000;
+    text-decoration: underline;
+}
+#success_c_o a:visited{
+	color:#000000;
+    text-decoration: underline;
+}
+.limit{
+	display:none;
+}
+.list-footer{
+	text-align:center !important;;
+}
+.counter{
+	text-align:center !important;;
+}
+table.admintable_c td.key{
+	border-bottom:none;
+}
+
+#resume_span{
+	font-size:10px;
+}
+#div_co1{
+	color:#666666;
+	float:left;
+	padding-top: 2px;
+}
+#div_co2{float:left;color:#666666;}
+#div_co3{float:left;padding-left: 10px;width:187px;color:#666666;}
+#div_co3 input[type="file"]{
+	width:171px;
+}
+#resume_span{
+	float:left;
+	padding-top: 5px;
+}
+.backdes_c_o{
+	background: none repeat scroll 0 0 #ECF5FD;
+    font-size: 16px;
+    margin: 20px;
+    padding: 30px 0;
+    padding-left:15px;
+    text-align: left;
+}
+.goback_c_o{
+	background: url("../images/arrow1.png") no-repeat scroll 56px 3px transparent;
+    float: right;
+    font-size: small;
+    padding-right: 58px;
+    text-decoration: underline;
+}
+.goback_c_o a{
+	color: #BC6616;
+}
+.sub_c_o{
+    margin: 0px 20px 14px 0;
+    padding-bottom: 2px;
+}
+#success_c_o{
+	padding:10px;
+}
+#success_c_o a:link {
+	color:#000000;
+    text-decoration: underline;
+}
+#success_c_o a:hover{
+	color:#000000;
+    text-decoration: underline;
+}
+#success_c_o a:visited{
+	color:#000000;
+    text-decoration: underline;
+}
+.goback {
+padding-right: 54px;
+}
+.table_tr_captcha{
+	padding-top:0px;
+}
+#table_td_captcha{
+	padding-top:0px;
+}
+span#je-required {
+	font-weight: bold;
+	color : #FF0000;
+}
+
+
+/*ROUND CORNER*/
+table#products tbody tr td{
+	border: 0px solid #DDDDDD ;
+}
+table#products tbody tr{
+	border: 0px solid #DDDDDD ;
+}
+
+#je_career_main_outer{
+	margin:10px;
+}
+#top-left{
+ 
+}
+#top-center{
+ 
+}
+#top-right{
+ 
+}
+#middle-left{
+ 
+}
+#middle-right {
+ 
+}
+#bottom-left {
+	 
+ 
+}
+#bottom-right {
+ 
+}
+#bottom-center {
+ 
+}
+#career_def_description{
+	padding:10px 27px 10px 0px;
+}
+.copyright_career{
+	text-align : right;
+	font-size : 10px;
+}
+
+/*CATEGORY DEFAULT*/
+
+#category_cr_heading a{
+  font-weight: bold;
+}
+table.c_o_table_cat{
+	width:100%;
+	border-collapse:collapse;
+}
+table.c_o_table_cat td th{
+border:1px solid #353535;
+}
+table.c_o_table_cat thead th {
+    background: none repeat scroll 0 0 #3676BE;
+    border-bottom-left-radius:1px solid #135CAE;
+    text-align: left !important;
+    color: #FFFFFF;
+    text-align: center;
+}
+table.c_o_table_cat td, table.c_o_table_cat th {
+    padding: 10px;
+}
+table.c_o_table_cat tbody tr td {
+    background: none repeat scroll 0 0 #B0CAE2;
+    height: 10px;
+}
+table.c_o_table_cat tbody tr.row1 td {
+    background: none repeat scroll 0 0 #ECF5FD;
+}
+
+tr#career_radio td fieldset#jform_radio{
+	border:none;
+	margin:0;
+	padding:0;
+}
+td#upfile textarea#jform_text_resume{
+	width:262px; height:60px;
+	display:none;
+}
+table.admintable_c tbody tr td input:focus{
+	padding:3px;
+}
+table.admintable_c tbody tr td input{
+	padding:3px;
+}
+
+/****FOOTER****/
+p.copyright{
+	text-align : right;
+	font-size : 10px;
+}
+
+/****PAGINATION****/
+
+table tfoot div#container_pag_career{
+	/*border:1px solid red;*/
+	display:inline-block;
+}
+table tfoot div#container_pag_career div#hostingrajacareer-paginationarea div.pagination{
+	border-top:none;
+	float:left;
+	clear:none;
+	margin:0;
+	padding:0 0 0 10px;
+}
+table tfoot div#container_pag_career div#hostingrajacareer-paginationarea div.je-limitbox{
+	float:left;
+	margin-top: 3px;
+}
+
+table tfoot div#container_pag_career div#hostingrajacareer-paginationarea div.pagination p.counter{
+	float:right;
+	margin-top: 3px;
+}
+
+table tfoot div#container_pag_career div#hostingrajacareer-paginationarea div.pagination ul{
+	float:left;
+	margin:0 20px 0 20px;
+
+}
+table tfoot div#container_pag_career div#hostingrajacareer-paginationarea div.pagination ul li{
+	line-height:1.7em;
+}

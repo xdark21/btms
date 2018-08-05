@@ -1,0 +1,79 @@
+/* 
+Phoca Download
+http://www.phoca.cz/ 
+http://www.phoca.cz/phocadownload
+*/
+
+#phoca-dl-category-box .pd-button-mirror1 a,
+#phoca-dl-category-box .pd-button-mirror2 a,
+#phoca-dl-file-box .pd-button-mirror1 a,
+#phoca-dl-file-box .pd-button-mirror2 a,
+#phoca-dl-category-box .pd-button-play a,
+#phoca-dl-category-box .pd-button-preview a,
+#phoca-dl-category-box .pd-button-download a,
+#phoca-dl-category-box .pd-button-details a {
+	 
+	display: inline-block; 
+	padding: 7px 12px 8px; 
+	text-decoration: none;
+	background-color:#71cef5;
+ 
+	font-weight: bold;
+	font-size: 110%;
+	padding-left: 28px;
+	color: #000;
+}
+
+#phoca-dl-category-box .pd-button-play a {
+	background: url(images/btn.png) repeat-x, url(images/icon-play.png) 6px center no-repeat; 
+		background-color:#71cef5;
+}
+#phoca-dl-category-box .pd-button-preview a {
+	background: url(images/btn.png) repeat-x, url(images/icon-preview.png) 6px center no-repeat; 
+		background-color:#71cef5;
+}
+#phoca-dl-category-box .pd-button-download a {
+	background: url(images/btn.png) repeat-x, url(images/icon-download.png) 6px center no-repeat; 
+	background-color:#71cef5;
+}
+#phoca-dl-category-box .pd-button-details a {
+	background: url(images/btn.png) repeat-x, url(images/icon-details.png) 6px center no-repeat; 
+		background-color:#71cef5;
+}
+
+#phoca-dl-file-box .pd-button-mirror1 a,
+#phoca-dl-category-box .pd-button-mirror1 a {
+	background: url(images/btn.png) repeat-x, url(images/icon-extlink1.png) 6px center no-repeat; 
+	background-color:#71cef5;
+}
+#phoca-dl-file-box .pd-button-mirror2 a,
+#phoca-dl-category-box .pd-button-mirror2 a {
+	background: url(images/btn.png) repeat-x, url(images/icon-extlink2.png) 6px center no-repeat; 
+		background-color:#71cef5;
+}
+
+#phoca-dl-category-box .pd-button-play a:hover {
+	background: url(images/btn.png) repeat-x, url(images/icon-play.png) 6px center no-repeat; 
+	background-color: #0076c0;
+}
+#phoca-dl-category-box .pd-button-preview a:hover {
+	background: url(images/btn.png) repeat-x, url(images/icon-preview.png) 6px center no-repeat; 
+	background-color: #0076c0;
+}
+#phoca-dl-category-box .pd-button-download a:hover {
+	background: url(images/btn.png) repeat-x, url(images/icon-download.png) 6px center no-repeat;
+	background-color: #0076c0;
+}
+#phoca-dl-category-box .pd-button-details a:hover {
+	background: url(images/btn.png) repeat-x, url(images/icon-details.png) 6px center no-repeat; 
+	background-color: #0076c0;
+}
+#phoca-dl-category-box .pd-button-mirror1 a:hover {
+	background: url(images/btn.png) repeat-x, url(images/icon-extlink1.png) 6px center no-repeat; 
+	background-color: #0076c0;
+}
+#phoca-dl-category-box .pd-button-mirror2 a:hover {
+	background: url(images/btn.png) repeat-x, url(images/icon-extlink2.png) 6px center no-repeat; 
+	background-color: #0076c0;
+}
+

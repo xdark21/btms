@@ -1,0 +1,80 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 05 Aug 2018 11:23:22 at http://www.bmts.ae/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.bmts.ae/ -O1 "C:\Users\user\Documents\bmts\bmts" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:54:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 36216365 got 10018236): www.bmts.ae/images/NEWSLETTERS/issue9.zip
+11:58:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 55094365 got 11478591): www.bmts.ae/images/NEWSLETTERS/issue8.zip
+12:01:53	Warning: 	file not stored in cache due to bogus state (broken size, expected 17713697 got 12721052): www.bmts.ae/images/NEWSLETTERS/issue10.zip
+12:21:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 22631058 got 10889379): www.bmts.ae/images/NEWSLETTERS/issue6.zip
+12:23:24	Warning: 	file not stored in cache due to bogus state (broken size, expected 36159929 got 10627507): www.bmts.ae/images/NEWSLETTERS/issue5.zip
+12:29:18	Warning: 	file not stored in cache due to bogus state (broken size, expected 44291021 got 11347655): www.bmts.ae/images/NEWSLETTERS/issue4.zip
+12:32:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 35671487 got 11478591): www.bmts.ae/images/NEWSLETTERS/issue3.zip
+12:37:16	Error: 	"Not Found" (404) at link www.bmts.ae/templates/bmtsversion6/images/question.png (from www.bmts.ae/templates/bmtsversion6/stylesheets/boxy.css)
+12:37:16	Error: 	"Not Found" (404) at link www.bmts.ae/templates/bmtsversion6/stylesheets/images/boxy-nw2.png (from www.bmts.ae/templates/bmtsversion6/stylesheets/boxy.css)
+12:37:16	Error: 	"Not Found" (404) at link www.bmts.ae/templates/bmtsversion6/stylesheets/images/boxy-ne2.png (from www.bmts.ae/templates/bmtsversion6/stylesheets/boxy.css)
+12:37:16	Error: 	"Not Found" (404) at link www.bmts.ae/templates/bmtsversion6/stylesheets/images/boxy-se2.png (from www.bmts.ae/templates/bmtsversion6/stylesheets/boxy.css)
+12:37:16	Error: 	"Not Found" (404) at link www.bmts.ae/templates/bmtsversion6/stylesheets/images/boxy-sw2.png (from www.bmts.ae/templates/bmtsversion6/stylesheets/boxy.css)
+12:37:16	Error: 	"Not Found" (404) at link www.bmts.ae/templates/bmtsversion6/images/title_bar.png (from www.bmts.ae/templates/bmtsversion6/stylesheets/boxy.css)
+12:37:16	Error: 	"Not Found" (404) at link www.bmts.ae/templates/bmtsversion6/images/close.png (from www.bmts.ae/templates/bmtsversion6/stylesheets/boxy.css)
+12:37:16	Error: 	"Not Found" (404) at link www.bmts.ae/templates/bmtsversion6/images/close2.png (from www.bmts.ae/templates/bmtsversion6/stylesheets/boxy.css)
+12:37:16	Error: 	"Not Found" (404) at link www.bmts.ae/media/com_finder/images/mime/pdf.png (from www.bmts.ae/media/com_finder/css/finder.css)
+12:37:17	Error: 	"Not Found" (404) at link www.bmts.ae/templates/bmtsversion6/images/footer.gif (from www.bmts.ae/templates/bmtsversion6/css/default.css)
+12:37:30	Warning: 	Retry after error -4 (Incorrect length (12721052 Bytes, 17713697 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue10.zip (from www.bmts.ae/media-center/newsletters)
+12:49:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 20266252 got 10562039): www.bmts.ae/images/NEWSLETTERS/issue2.zip
+12:49:55	Warning: 	Retry after error -4 (Incorrect length (10018236 Bytes, 36216365 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue9.zip (from www.bmts.ae/media-center/newsletters)
+12:50:54	Warning: 	Retry after error -4 (Incorrect length (11478591 Bytes, 55094365 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue8.zip (from www.bmts.ae/media-center/newsletters)
+12:52:31	Warning: 	file not stored in cache due to bogus state (broken size, expected 16167307 got 10889379): www.bmts.ae/images/NEWSLETTERS/issue1.zip
+12:52:31	Warning: 	Retry after error -4 (Incorrect length (10889379 Bytes, 22631058 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue6.zip (from www.bmts.ae/media-center/newsletters)
+13:12:02	Warning: 	file not stored in cache due to bogus state (broken size, expected 15204623 got 13049809): www.bmts.ae/corporate/Home5.swf
+13:12:02	Warning: 	Retry after error -4 (Incorrect length (10627507 Bytes, 36159929 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue5.zip (from www.bmts.ae/media-center/newsletters)
+13:18:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 36216365 got 20776591): www.bmts.ae/images/NEWSLETTERS/issue9.zip
+13:18:50	Warning: 	Retry after error -4 (Incorrect length (11347655 Bytes, 44291021 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue4.zip (from www.bmts.ae/media-center/newsletters)
+13:21:04	Warning: 	file not stored in cache due to bogus state (broken size, expected 22631058 got 21516798): www.bmts.ae/images/NEWSLETTERS/issue6.zip
+13:21:04	Warning: 	Retry after error -4 (Incorrect length (11478591 Bytes, 35671487 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue3.zip (from www.bmts.ae/media-center/newsletters)
+13:21:44	Warning: 	file not stored in cache due to bogus state (broken size, expected 55094365 got 22957094): www.bmts.ae/images/NEWSLETTERS/issue8.zip
+13:21:44	Warning: 	Retry after error -4 (Incorrect length (10562039 Bytes, 20266252 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue2.zip (from www.bmts.ae/media-center/newsletters)
+13:42:52	Warning: 	file not stored in cache due to bogus state (broken size, expected 36159929 got 22106010): www.bmts.ae/images/NEWSLETTERS/issue5.zip
+13:42:52	Warning: 	Retry after error -4 (Incorrect length (10889379 Bytes, 16167307 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue1.zip (from www.bmts.ae/media-center/newsletters)
+13:47:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 44291021 got 22106010): www.bmts.ae/images/NEWSLETTERS/issue4.zip
+13:47:53	Warning: 	Retry after error -4 (Incorrect length (13049809 Bytes, 15204623 expected)) at link www.bmts.ae/corporate/Home5.swf (from www.bmts.ae/corporate-presentation)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/Scripts/expressInstall.swf (from www.bmts.ae/corporate-presentation)
+13:47:53	Error: 	"Not Found" (404) at link awebcogroup.com/BMTS_CMS/media/editors/tinymce/jscripts/tiny_mce/themes/advanced/img/trans.gif (from www.bmts.ae/corporate-presentation)
+13:47:53	Error: 	"Category not found" (404) at link www.bmts.ae/"http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif/" (from www.bmts.ae/corporate-presentation)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_loading.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_close.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_title_over.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_title_left.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_title_main.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_title_right.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_shadow_n.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_shadow_ne.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_shadow_e.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_shadow_se.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_shadow_s.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_shadow_sw.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_shadow_w.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Error: 	"Not Found" (404) at link www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/plugins/content/admirorgallery/popups/fancybox/css/fancy_shadow_nw.png (from www.bmts.ae/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css)
+13:47:53	Warning: 	Retry after error -4 (Incorrect length (20776591 Bytes, 36216365 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue9.zip (from www.bmts.ae/media-center/newsletters)
+13:49:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 35671487 got 22171392): www.bmts.ae/images/NEWSLETTERS/issue3.zip
+13:49:43	Warning: 	Retry after error -4 (Incorrect length (22957094 Bytes, 55094365 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue8.zip (from www.bmts.ae/media-center/newsletters)
+13:53:40	Warning: 	Retry after error -4 (Incorrect length (21516798 Bytes, 22631058 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue6.zip (from www.bmts.ae/media-center/newsletters)
+13:56:40	Warning: 	Retry after error -4 (Incorrect length (22106010 Bytes, 36159929 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue5.zip (from www.bmts.ae/media-center/newsletters)
+13:56:57	Warning: 	Retry after error -4 (Incorrect length (22106010 Bytes, 44291021 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue4.zip (from www.bmts.ae/media-center/newsletters)
+14:17:07	Warning: 	file not stored in cache due to bogus state (broken size, expected 36216365 got 31665882): www.bmts.ae/images/NEWSLETTERS/issue9.zip
+14:17:08	Warning: 	Retry after error -4 (Incorrect length (22171392 Bytes, 35671487 expected)) at link www.bmts.ae/images/NEWSLETTERS/issue3.zip (from www.bmts.ae/media-center/newsletters)
+14:20:00	Warning: 	file not stored in cache due to bogus state (broken size, expected 55094365 got 34239193): www.bmts.ae/images/NEWSLETTERS/issue8.zip
+14:20:01	Error: 	"Incorrect length (31665882 Bytes, 36216365 expected)" (-4) after 2 retries at link www.bmts.ae/images/NEWSLETTERS/issue9.zip (from www.bmts.ae/media-center/newsletters)
+14:20:01	Error: 	"Incorrect length (34239193 Bytes, 55094365 expected)" (-4) after 2 retries at link www.bmts.ae/images/NEWSLETTERS/issue8.zip (from www.bmts.ae/media-center/newsletters)
+14:23:15	Warning: 	file not stored in cache due to bogus state (broken size, expected 36159929 got 32406089): www.bmts.ae/images/NEWSLETTERS/issue5.zip
+14:23:15	Error: 	"Incorrect length (32406089 Bytes, 36159929 expected)" (-4) after 2 retries at link www.bmts.ae/images/NEWSLETTERS/issue5.zip (from www.bmts.ae/media-center/newsletters)
+14:24:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 44291021 got 32864365): www.bmts.ae/images/NEWSLETTERS/issue4.zip
+14:24:01	Error: 	"Incorrect length (32864365 Bytes, 44291021 expected)" (-4) after 2 retries at link www.bmts.ae/images/NEWSLETTERS/issue4.zip (from www.bmts.ae/media-center/newsletters)
+14:29:27	Warning: 	file not stored in cache due to bogus state (broken size, expected 35671487 got 33519756): www.bmts.ae/images/NEWSLETTERS/issue3.zip
+14:29:27	Error: 	"Incorrect length (33519756 Bytes, 35671487 expected)" (-4) after 2 retries at link www.bmts.ae/images/NEWSLETTERS/issue3.zip (from www.bmts.ae/media-center/newsletters)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 hours 6 minutes 5 seconds : 394 links scanned, 345 files written (113758217 bytes overall) [276243208 bytes received at 24741 bytes/sec], 3551542 bytes transferred using HTTP compression in 149 files, ratio 26%, 7.1 requests per connection
+(32 errors, 37 warnings, 0 messages)

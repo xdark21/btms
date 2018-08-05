@@ -1,0 +1,64 @@
+/* 
+Phoca Download
+http://www.phoca.cz/ 
+http://www.phoca.cz/phocadownload
+*/
+
+#phoca-dl-categories-box div.pd-categoriesbox {
+	
+	background: #ffffff;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+ 
+	
+}
+
+#phoca-dl-category-box .pd-category h3,
+#phoca-dl-file-box .pd-file h3{
+	background: #ffffff;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+ 
+}
+
+
+#phoca-dl-category-box .pd-textonly {
+	clear: both;
+	margin: 10px 0px;
+}
+
+#phoca-dl-category-box .pd-filebox {
+	clear:both;
+	padding: 15px;
+	margin: 10px 0px;
+	background: #ffffff ;
+
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+ 
+
+}
+
+#phoca-dl-category-box .pd-textonly {
+	clear: both;
+	margin: 10px 0px;
+}
+
+
+#overDiv .bgPhocaPDClass {
+
+	
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+ 
+}
+
+
